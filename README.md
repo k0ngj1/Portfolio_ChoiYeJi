@@ -7,3 +7,8 @@
      
 3. **SecurityCenter2를 이용한 보안 프로그램 상태 점검방안**  
    - 🔗 [LINK](https://www.igloo.co.kr/security-information/securitycenter2%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%B3%B4%EC%95%88-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%83%81%ED%83%9C-%EC%A0%90%EA%B2%80%EB%B0%A9%EC%95%88/)
+
+
+## CVE Hunting for SAST Pipeline
+1. **Hugo XSS (CVE-2026-58402)**
+   - 🔗 [LINK](https://github.com/k0ngj1/Portfolio_ChoiYeJi/blob/main/CVE-2026-58402.md)
